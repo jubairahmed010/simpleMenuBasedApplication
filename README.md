@@ -13,14 +13,14 @@ To run this application, you will need to have Java 8 or above installed on your
 
 Once Java is installed, you can download or clone this repository to your local machine. To clone the repository, run the following command in your terminal:
 
-*git clone https://github.com/yourusername/your-repo-name.git*
+<code> git clone https://github.com/yourusername/your-repo-name.git </code>
 
 Replace yourusername and your-repo-name with your GitHub username and the name of the repository, respectively.
 
 # Usage
 
 To run the application, navigate to the root directory of the repository in your terminal and run the following command:
-*java Main*
+<code> java Main</code>
 This will start the application and display the main menu. From there, you can select various options by entering the corresponding number.
 
 # Contributing
